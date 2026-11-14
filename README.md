@@ -137,6 +137,8 @@ docker exec -it rootso-oracle sqlplus "ROOTSO@FREEPDB1" "@/tmp/03_consultas_indi
 
 ![Mapa de correlação](docs/imagens/mapa_correlacoes.png)
 
+### Assista a demo
+![Video demonstração] (https://www.youtube.com/watch?v=Dx4e4OINxjg)
 ## 📋 Licença
 
 Este projeto acadêmico utiliza como referência a estrutura do
